@@ -1,7 +1,7 @@
-# Name and Contact Information
+### Name and Contact Information
 Kurumi Kaneko - kskaneko@ucsd.edu
 
-# Section and Mentor
+### Section and Mentor
 DSC180A Section B02 - Brian Duke, Kyle Nero 
 
 
