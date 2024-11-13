@@ -1,6 +1,11 @@
+# Name and Contact Information
 Kurumi Kaneko - kskaneko@ucsd.edu
+
+# Section and Mentor
 DSC180A Section B02 - Brian Duke, Kyle Nero 
 
+
+# Project Brainstorming Prompts
 **1. What is the most interesting topic covered in your domain this quarter?**
 
 
